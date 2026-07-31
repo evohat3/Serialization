@@ -1,0 +1,14 @@
+F:\coding-sideprojects\Coursera\webapi\SerializationDemo\bin\Debug\net10.0\SerializationDemo.exe
+F:\coding-sideprojects\Coursera\webapi\SerializationDemo\bin\Debug\net10.0\SerializationDemo.deps.json
+F:\coding-sideprojects\Coursera\webapi\SerializationDemo\bin\Debug\net10.0\SerializationDemo.runtimeconfig.json
+F:\coding-sideprojects\Coursera\webapi\SerializationDemo\bin\Debug\net10.0\SerializationDemo.dll
+F:\coding-sideprojects\Coursera\webapi\SerializationDemo\bin\Debug\net10.0\SerializationDemo.pdb
+F:\coding-sideprojects\Coursera\webapi\SerializationDemo\obj\Debug\net10.0\SerializationDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\coding-sideprojects\Coursera\webapi\SerializationDemo\obj\Debug\net10.0\SerializationDemo.AssemblyInfoInputs.cache
+F:\coding-sideprojects\Coursera\webapi\SerializationDemo\obj\Debug\net10.0\SerializationDemo.AssemblyInfo.cs
+F:\coding-sideprojects\Coursera\webapi\SerializationDemo\obj\Debug\net10.0\SerializationDemo.csproj.CoreCompileInputs.cache
+F:\coding-sideprojects\Coursera\webapi\SerializationDemo\obj\Debug\net10.0\SerializationDemo.dll
+F:\coding-sideprojects\Coursera\webapi\SerializationDemo\obj\Debug\net10.0\refint\SerializationDemo.dll
+F:\coding-sideprojects\Coursera\webapi\SerializationDemo\obj\Debug\net10.0\SerializationDemo.pdb
+F:\coding-sideprojects\Coursera\webapi\SerializationDemo\obj\Debug\net10.0\SerializationDemo.genruntimeconfig.cache
+F:\coding-sideprojects\Coursera\webapi\SerializationDemo\obj\Debug\net10.0\ref\SerializationDemo.dll
