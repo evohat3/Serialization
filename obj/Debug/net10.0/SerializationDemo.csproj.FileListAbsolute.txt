@@ -12,3 +12,4 @@ F:\coding-sideprojects\Coursera\webapi\SerializationDemo\obj\Debug\net10.0\refin
 F:\coding-sideprojects\Coursera\webapi\SerializationDemo\obj\Debug\net10.0\SerializationDemo.pdb
 F:\coding-sideprojects\Coursera\webapi\SerializationDemo\obj\Debug\net10.0\SerializationDemo.genruntimeconfig.cache
 F:\coding-sideprojects\Coursera\webapi\SerializationDemo\obj\Debug\net10.0\ref\SerializationDemo.dll
+F:\coding-sideprojects\Coursera\webapi\SerializationDemo\obj\Debug\net10.0\SerializationDemo.sourcelink.json
