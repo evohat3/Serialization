@@ -12,6 +12,8 @@ namespace Serialization
         
         static void Main()
         {
+
+            // $$$$$$$$$$$$$$$$$ Objects to Serialize $$$$$$$$$$$$$$$$$
             // ### individual 
             Person personOne = new Person {UserName = "JimmyNeutron", UserAge = 12};
 
@@ -22,7 +24,9 @@ namespace Serialization
               new Person {UserName = "Jim Carey", UserAge = 35}  
             };
 
-            // *** Serialize to Binary ***
+            // $$$$$$$$$$$$$$$$$ Objects to Serialize $$$$$$$$$$$$$$$$$
+
+            //*** Serialize to Binary ***
             using (FileStream fs = new FileStream("Person.dat", FileMode.Create))
             {
                 BinaryWriter writer = new BinaryWriter(fs);
@@ -41,15 +45,19 @@ namespace Serialization
             Console.WriteLine("XML Serialization Completed");
 
             // *** Serialize Json ***
-                   // ### Individual 
-            // string jsonString = JsonSerializer.Serialize(personOne);
-            // File.WriteAllText("person.json", jsonString);
-                    // ### Group
-                                    // $$$ Json Serializer Options
-            string jsonString = JsonSerializer.Serialize(people, new JsonSerializerOptions {WriteIndented = true});
+                  // ### Individual 
+            string jsonString = JsonSerializer.Serialize(personOne);
+            File.WriteAllText("person.json", jsonString);
+                   // ### Group
+                                   // $$$ Json Serializer Options
+        //    string jsonString = JsonSerializer.Serialize(people, new JsonSerializerOptions {WriteIndented = true});
             File.WriteAllText("People.json",jsonString);
             Console.WriteLine($"Serilization Complete\n{jsonString}");
-        
+          
+
+            //StreamReader reader = new StreamReader("./People.json");
+            //Console.WriteLine($"Deserialized JSON:\n{reader.ReadToEnd()}");
+
         }
 
 
